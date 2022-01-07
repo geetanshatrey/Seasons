@@ -14,9 +14,16 @@ class component. Also understood why we should declare default props values.
 
 
 ## App Screenshots
+ 
+| <img src="Documentation/LoadingScreen.png" width="800px" height="500px"> |
+| :----------------------------------------: |
+|      **Figure 1: Loading Screen**     |
 
- | <img src="Documentation/LoadingScreen.png" height="400"> (Loading Screen) |:---:|
 
- | <img src="Documentation/Summer.png" height="400"> (Summer Season) |:---:|
+| <img src="Documentation/Summer.png" width="800px" height="500px"> |
+| :----------------------------------------: |
+|      **Figure 2: Summer Season**     |
 
- |<img src="Documentation/Winter.png" height="400"> (Winter Season) |:---:|
+| <img src="Documentation/Winter.png" width="800px" height="500px"> |
+| :----------------------------------------: |
+|      **Figure 3: Winter Season**     |
